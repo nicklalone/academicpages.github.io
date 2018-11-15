@@ -22,15 +22,18 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Current**
+* Post Doctoral Researcher Associate. School of Information Sciences, University of Illinois at Urbana-Champaign.
+* Assistant Professor, College of Science and Technology. Bellevue University.
+  * Director of the Data Science Program
+  * Director of the Business Analytics Program
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **08/2016 - 08/2017**
+  * Teaching Fellowship, College of Information Sciences and Technology, The Pennsylvania State University.
+- **12/2013 - 08/2016**
+  * Research Assistant, College of Information Sciences and Technology, The Pennsylvania State University.
+- **08/2013-12/2013**
+  * Teaching Assistant, College of Information Sciences and Technology, The Pennsylvania State University.
   
 Skills
 ======
