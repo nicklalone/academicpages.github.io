@@ -23,10 +23,10 @@ Education
 Work experience
 ======
 - **Current**
-* Post Doctoral Researcher Associate. School of Information Sciences, University of Illinois at Urbana-Champaign.
-* Assistant Professor, College of Science and Technology. Bellevue University.
-  * Director of the Data Science Program
-  * Director of the Business Analytics Program
+  * Post Doctoral Researcher Associate. School of Information Sciences, University of Illinois at Urbana-Champaign.
+  * Assistant Professor, College of Science and Technology. Bellevue University.
+    * Director of the Data Science Program
+    * Director of the Business Analytics Program
 
 - **08/2016 - 08/2017**
   * Teaching Fellowship, College of Information Sciences and Technology, The Pennsylvania State University.
