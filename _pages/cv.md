@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* August 2018 
+  * Ph.D. Information Sciences and Technology, Pennsylvania State University
+ 
+* May 2012
+  * M.A. Sociology, Texas State University
+ 
+* December 2007
+  * B.S. Applied Sociology, Texas State University
 
 Work experience
 ======
