@@ -1,5 +1,5 @@
 ---
-title: "https://digital.library.txstate.edu/handle/10877/4136"
+title: "Differences in Design: Video Game Design in Pre and Post 9/11 America"
 collection: Masters Thesis
 permalink: /publication/2012-04-11-masters_thesis
 excerpt: 'The influence of the 9/11/01 attacks are still being felt in entertainment media today. Here is a systematic evaluation of the "big bad" in video games over time.'
