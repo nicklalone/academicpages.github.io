@@ -8,8 +8,9 @@ tags:
   - Teaching Intro Programming
   - Game Design
 ---
-# Are Fantasy Consoles a Better Gateway to Learning How to Program?
-##Learning Programming with PICO-8
+# Are Fantasy Consoles a Better Gateway to Learning How to Program? Learning Programming with PICO-8
+
+Fantasy Consoles are self-contained video game development environments so incredibly constrained that users have no choice but to learn how programming works.
 
 I was once told that programming is the act of shifting around the limitations of resources, language, talent, or knowledge to provide a vehicle for users to do the same. I have thought about this a lot as I have begun to teach introductory programming and information processing. Teaching programming to those who are curious but apprehensive of actually doing it is perhaps one of the most difficult and consumptive challenges I have ever faced. I love it.
 
@@ -91,7 +92,7 @@ The user interface contains the following screens:
 
 ![The Code Editor](https://cdn-images-1.medium.com/max/2000/0*ZerHdYq50Anbi66J.png)*The Code Editor*
 
-**The Code Editor **is for basic text but it will stylize commands as they are recognized. Anything here can be executed immediately at the command line..
+**The Code Editor** is for basic text but it will stylize commands as they are recognized. Anything here can be executed immediately at the command line..
 
 Any errors will interrupt the program. The resulting error will be interpreted the line where the error first occurs will be pointed to.
 
@@ -103,13 +104,13 @@ For animating sprites, they simply need to be drawn in each successive sprite ar
 
 ![The Map Editor](https://cdn-images-1.medium.com/max/2000/0*WyOyqyBZXbXCdvQQ.png)*The Map Editor*
 
-**The map editor **allows for folks creating games that use maps to draw them as needed. The use of flags for sprites allow for programming-interested folks to use each sprite in different ways.
+**The map editor** allows for folks creating games that use maps to draw them as needed. The use of flags for sprites allow for programming-interested folks to use each sprite in different ways.
 
 The picture to the left is one block of the map. Each of the blocks can be accessed here which allows for multiple levels in a game.
 
 ![The Sound Effects Editor](https://cdn-images-1.medium.com/max/2000/0*JscRiJi29JqLZTAj.png)*The Sound Effects Editor*
 
-**The sound effects editor **allows for a number of different sound effects to be created in-house and ready to use in-game.
+**The sound effects editor** allows for a number of different sound effects to be created in-house and ready to use in-game.
 
 The editor uses different methods of generating noise that users can play around with easily until the sound effect sounds like what they want it to be. Each can be called upon by number.
 
