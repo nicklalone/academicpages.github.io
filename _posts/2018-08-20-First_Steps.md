@@ -9,8 +9,6 @@ tags:
   - Game Design
 ---
 
-# First Steps with PICO-8
-
 What is code? Why do we write it in PICO-8? What does that mean?
 
 ### Before getting there, some context
