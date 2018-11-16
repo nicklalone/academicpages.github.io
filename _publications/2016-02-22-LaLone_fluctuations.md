@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-02-22-LaLone_fluctuations
 excerpt: 'Sociology has long been criticized for not incorporating tools, imbued with power and the ability to interact as nonhuman, into its basic research paradigms.'
 date: 2015-10-01
-venue: 'Journal 1'
+venue: 'Information, Communication & Society'
 paperurl: 'http://nicklalone.github.io/files/LaLone_Fluctuations.pdf'
 citation: 'LaLone, Nicolas & Andrea Tapia. (2016). &quot;Fluctuations, Technologies and Media: Social Change and Sociology Change.&quot; <i>Information, Communication & Society</i>. 19(5) 559-564.'
 ---
