@@ -1,7 +1,7 @@
 ---
 title: "Fluctuations, Technologies and Media: Social Change and Sociology Change"
 collection: publications
-permalink: /publication/2016-02-22-fluctuations
+permalink: /publication/2016-02-22-LaLone_fluctuations
 excerpt: 'Sociology has long been criticized for not incorporating tools, imbued with power and the ability to interact as nonhuman, into its basic research paradigms.'
 date: 2015-10-01
 venue: 'Journal 1'
