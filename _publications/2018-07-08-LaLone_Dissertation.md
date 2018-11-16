@@ -1,7 +1,7 @@
 ---
 title: "Association Mapping: Social Network Analysis with Humans and Non-Humans"
 collection: publications
-permalink: /publication/2008-07-08-dissertation
+permalink: /publication/2018-07-08-dissertation
 excerpt: 'It is possible to use Social-Network Analysis to reify Actor-Network Theory.'
 date: 2008-07-08
 venue: 'Dissertation'
