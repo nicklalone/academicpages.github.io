@@ -1,5 +1,5 @@
 ---
-title: "Association Mapping: Social Network Analysis with Humans and Non-Humans"
+title: "Crowdsourcing Investigations: Crowd Participation in Identifying the Bomb and Bomber from the Boston Marathon Bombing"
 collection: publications
 permalink: /publication/2014-10-01-LaLone_IJSCRAM
 excerpt: 'It is possible to use Social-Network Analysis to reify Actor-Network Theory.'
