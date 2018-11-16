@@ -1,7 +1,7 @@
 ---
 title: "Embracing Human Noise as Resilience Indicator: Twitter as Power Grid Correlate."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /2016-08-01-LaLone_Human_Noise
 excerpt: 'This paper was the start of trying to seek out existing data for reuse as sensors.'
 date: 2016-08-01
 venue: 'Sustainable and Resilient Infrastructure'
