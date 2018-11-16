@@ -1,5 +1,5 @@
 ---
-title: 'Are Fantasy Consoles a Better Gateway to Learning How to Program?'
+title: '# Are Fantasy Consoles a Better Gateway to Learning How to Program? Learning Programming with PICO-8'
 date: 2018-08-08
 permalink: /posts/2012/08/Are_Fantasy_Consoles
 tags:
