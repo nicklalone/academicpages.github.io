@@ -147,7 +147,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - assets`
+  - assets
 keep_files:
   - .git
   - .svn
