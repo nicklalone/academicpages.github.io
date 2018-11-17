@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/BU Teaching
 venue: "Bellevue University, College of Sciences and Technology"
-date: 2013-Current
+date: 2013-2018
 location: "Bellevue University, United States"
 ---
 
