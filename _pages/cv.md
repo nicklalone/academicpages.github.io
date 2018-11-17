@@ -35,14 +35,6 @@ Work experience
 - **08/2013-12/2013**
   * Teaching Assistant, College of Information Sciences and Technology, The Pennsylvania State University.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
