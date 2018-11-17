@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Pennsylvania State University"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/Penn_State_Teaching
+venue: "Pennsylvania State University, Information Sciences and Technology"
+date: 2017-08-15
+location: "State College, Pennsylvania, United States"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
