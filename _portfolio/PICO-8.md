@@ -3,9 +3,18 @@ title: "An Introduction to Programming with PICO-8"
 excerpt: "A course I created to help interested people learn a little bit about how computer programming works. <br/><img src='/images/pico-8.gif'>"
 collection: portfolio
 ---
-This item can be found [here](https://github.com/nicklalone/CIS---102---Getting-Started-with-Video-Game-Development)
 
-# Welcome! 
+# Welcome! This item can be found [here](https://github.com/nicklalone/CIS---102---Getting-Started-with-Video-Game-Development)
+
+I developed this course in an effort to meet some criticisms I had of how to teach: 
+
+1. Programming.
+2. Game-oriented programming
+3. Design. 
+
+It is a work in progress but I have been extremely pleased with student performance thus far!
+
+---
 
 This course is meant to help you get started in video game development using a limited console that has everything we need to work by ourselves until we're ready to work with others. Remember that video game development (and all of programming) is a collaborative effort. Getting started here means getting started as the member of a new community. It'll be awkward for a while but soon, after some growth, you'll start to contribute to that community. 
 
