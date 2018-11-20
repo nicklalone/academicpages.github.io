@@ -20,10 +20,10 @@ url                      : https://nicklalone.github.io # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicklalone/nicklalone.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : True # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Nick LaLone"
   avatar           : "profile.png"
-  bio              : "Sitting at the center of crisis informatics, simulation, play, and introduction to programming"
+  bio              : "My work focuses on how people and objects get to know each other. I work in crisis response, human-computer interaction, and simulation through the lens of play."
   location         : "Urbana, Illinois"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=W7xPgioAAAAJ&hl=en"
