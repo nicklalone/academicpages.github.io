@@ -1,12 +1,12 @@
 ---
 title: "Hybrid Community Participation in Crowdsourced Early Warning Systems"
 collection: publications
-permalink: /publication/2008-07-08-dissertation
+permalink: /publication/2015-05-24-dissertation
 excerpt: 'We present Aurorasaurus: a website, a mobile application, and a citizen science initiative that allows a community of users to report and verify sightings of the Aurora Borealis.'
 date: 2015-05-24
 venue: 'Conference Proceedings'
 paperurl: 'http://idl.iscram.org/files/nicklalone/2015/1270_NickLaLone_etal2015.pdf'
-citation: 'LaLone, N., Tapia, A. H., Case, N. A., MacDonald, E., Hall, M., & Heavner, M. J. (2015, May). "Hybrid Community Participation in Crowdsourced Early Warning Systems." In <i>Proceedings of the ISCRAM 2015 Conference - Kristiansand, May 24-27</i>.'
+citation: 'LaLone, N., Tapia, A. H., Case, N. A., MacDonald, E., Hall, M., & Heavner, M. J. (2015). "Hybrid Community Participation in Crowdsourced Early Warning Systems." In <i>Proceedings of the ISCRAM 2015 Conference - Kristiansand, May 24-27</i>.'
 
 ---
 
