@@ -1,15 +1,17 @@
 ---
-title: "Association Mapping: Social Network Analysis with Humans and Non-Humans"
+title: "Harnessing Twitter and Crowdsourcing to Augment Aurora Forecasting"
 collection: publications
-permalink: /publication/2008-07-08-dissertation
+permalink: /publication/2015-07-08-dissertation
 excerpt: 'It is possible to use Social-Network Analysis to reify Actor-Network Theory.'
-date: 2008-07-08
-venue: 'Dissertation'
-paperurl: 'http://academicpages.github.io/files/LaLone_Dissertation.pdf'
-citation: 'LaLone, Nicolas. (2018). &quot;Association Mapping: Social Network Analysis with Humans and Non-Humans.&quot; Retrieved from Electronic Theses and Dissertations for Graduate School.'
+date: 2015-03-14
+venue: 'Conference Proceedings'
+paperurl: 'https://dl.acm.org/citation.cfm?id=2702671'
+citation: 'LaLone, Nicolas, et al. "Harnessing Twitter and crowdsourcing to augment aurora forecasting." <i>Proceedings of the 18th ACM Conference Companion on Computer Supported Cooperative Work & Social Computing. ACM, 2015.</i>'
+
 ---
-I present Association Mapping (AM), a novel adaptation of Social Network Analysis that intends to map out each moment of association between people and objects. By including non-human actors in the analysis of software use, all of the disparate applications, devices, tasks, and contexts can be made explicit, numerically represented, and tested against or with similar networks. I demonstrate AM by creating Association Maps for 6 games of the board game Catan (1995) – a dice-based game of resource distribution and management. Catan (1995) was chosen for this pilot study due to its popularity, affordances, and expected behaviors. The maps are separated in 2 ways: 1). modalities: on the tabletop and mediated by an iPad application and 2). By group. AM is useful to designers by providing measurements of three distinct spaces: Outer Space or the general shape the objects create while associating, Inner space or the power of each object individually, and Inter-space or groups of objects working in tandem. Through design fiction, literature criticism, metaphor, and play, AM is contextualized and described both through this study and in general.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+The aurora borealis and aurora australis are beautiful space weather driven events whose sighting is typically based on luck given that forecasting is not spatially or temporally precise. To help increase the accuracy and timeliness of auroral forecasting, we have designed a multi-faceted system called Aurorasaurus. This system allows crisis management specialists to test reactions to rare event notifications, space weather scientists to get direct sighting information of auroras (complete with pictures), and science education researchers to evaluate the impact of educational materials about the aurora and the physics surrounding this unique phenomenon. Through manual tweet verification and directly reported aurora borealis or aurora australis sightings, everyday users help make space weather and aurora forecasting more accurate.
 
-Recommended citation: LaLone, Nicolas. (2018). &quot;Association Mapping: Social Network Analysis with Humans and Non-Humans.&quot; Retrieved from Electronic Theses and Dissertations for Graduate School.
+[Download paper here](http://nicklalone.github.io/files/LaLone_Aurorasaurus.pdf)
+
+Recommended citation: LaLone, Nicolas, et al. "Harnessing Twitter and crowdsourcing to augment aurora forecasting." <i>Proceedings of the 18th ACM Conference Companion on Computer Supported Cooperative Work & Social Computing. ACM, 2015.</i>
