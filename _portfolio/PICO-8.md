@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to Programming with PICO-8"
-excerpt: "A course I created to help interested people learn a little bit about how computer programming works. <br/><img src='/images/pico-8.gif'>"
+excerpt: "A course I created to help interested people learn a little bit about how computer programming works. <br/><br/><img src='/images/pico-8.gif'>"
 collection: portfolio
 ---
 
