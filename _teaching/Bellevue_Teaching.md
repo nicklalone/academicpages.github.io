@@ -13,8 +13,11 @@ location: "Bellevue University, Online, United States"
 | Intro to Data Science | Introduction to Programming | Doing Data Science |
 
 ### Intro to Data Science
+
 ### Introduction to Programming
+
 ### Doing Data Science
+
 
 | Game Studies and Design                                  |                              |                                 |                                           |                                             |                                        |
 |----------------------------------|------------------------------|---------------------------------|-------------------------------------------|---------------------------------------------|----------------------------------------|
