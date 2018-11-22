@@ -8,6 +8,9 @@ date: 2018-12-31
 location: "Bellevue University, Online, United States"
 ---
 
+
+
+
 | Game Studies and Design                                  |                              |                                 |                                           |                                             |                                        |
 |----------------------------------|------------------------------|---------------------------------|-------------------------------------------|---------------------------------------------|----------------------------------------|
 | Introduction to Game Design      | Interactive Narrative Design | Introduction to 3D Design       | Intermediate Portfolio Development        | Introduction to Game Programming            | Advanced Digital Design                |
@@ -32,8 +35,18 @@ location: "Bellevue University, Online, United States"
 ### Advanced Digital Design
 ### Advanced Portfolio Design / Internship
 
-| Graphic Design                                   |                     |
-|------------------------------------|---------------------|
-| Design Basics                      | Web Page Design     |
-| Fundamentals of Web Design         | Website Development |
-| User Experience and Graphic Design |                     |
+| Graphic Design                           |                                    |                |
+|----------------------------|------------------------------------|----------------|
+| Design Basics              | User-Experience and Graphic Design | Webpage Design |
+| Fundamentals of Web Design | Webpage Development                |                |
+
+### Design Basics
+### Fundamentals of Web Design
+### User Experience and Graphic Design
+### Web Page Design
+### Website Development
+
+| Business Analytics                                   |                                            |                                          |
+|------------------------------------|--------------------------------------------|------------------------------------------|
+| Introduction to Business Analytics | Base SAS,Programming                       | Data,Warehousing and Mining Applications |
+| Introduction to SAS                | Enterprise Data and,Information Management |                                          |
