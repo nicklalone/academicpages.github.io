@@ -3,7 +3,7 @@ title: "Embracing Human Noise as Resilience Indicator: Twitter as Power Grid Cor
 collection: publications
 permalink: /2017-03-26-LaLone_Human_Noise
 excerpt: 'This paper was the start of trying to seek out existing data for reuse as sensors.'
-date: 2016-08-01
+date: 2017-03-26
 venue: 'Sustainable and Resilient Infrastructure'
 paperurl: 'http://nicklalone.github.io/files/LaLone_Human_Noise.pdf'
 citation: 'LaLone, Nicolas, et al. (2017). "Embracing human noise as resilience indicator: twitter as power grid correlate." <i>Sustainable and Resilient Infrastructure</i> 2:4: 169-178.'
