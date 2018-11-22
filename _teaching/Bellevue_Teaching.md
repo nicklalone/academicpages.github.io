@@ -8,6 +8,8 @@ date: 2018-12-31
 location: "Bellevue University, Online, United States"
 ---
 
+At Bellevue University, I have been involved with Data Science, Game Design, Graphic Design, and Business Analytics. As current director of the Data Science program, I have sought to create a program that fosters human-centric, critical and curious thinkers who are capable of telling unique, easy to understand stories. This program is domain agnostic but students are free to use data from their respective fields as needed.
+
 | Data Science                      |                             |                    |
 |-----------------------|-----------------------------|--------------------|
 | Intro to Data Science | Introduction to Programming | Doing Data Science |
