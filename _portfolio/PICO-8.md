@@ -4,7 +4,7 @@ excerpt: "A course I created to help interested people learn a little bit about 
 collection: portfolio
 ---
 
-Welcome! This item can be found <a href="https://github.com/nicklalone/CIS---102---Getting-Started-with-Video-Game-Development" target=_blank>here</a>.
+Welcome! This item can be found [here](a href="https://github.com/nicklalone/CIS---102---Getting-Started-with-Video-Game-Development).
 
 I developed this course in an effort to meet some criticisms I had of how to teach: 
 
