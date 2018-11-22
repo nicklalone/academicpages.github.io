@@ -48,5 +48,11 @@ location: "Bellevue University, Online, United States"
 
 | Business Analytics                                   |                                            |                                          |
 |------------------------------------|--------------------------------------------|------------------------------------------|
-| Introduction to Business Analytics | Base SAS,Programming                       | Data,Warehousing and Mining Applications |
+| Introduction to Business Analytics | Base SAS,Programming                       | Data Warehousing and Mining Applications |
 | Introduction to SAS                | Enterprise Data and,Information Management |                                          |
+
+### Introduction to Business Analytics
+### Introduction to SAS   
+### Base SAS,Programming
+### Enterprise Data and Information Management
+### Data Warehousing and Mining Applications
