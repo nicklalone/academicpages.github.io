@@ -13,3 +13,5 @@ I present Association Mapping (AM), a novel adaptation of Social Network Analysi
 [Download paper here](http://nicklalone.github.io/files/LaLone_Dissertation.pdf)
 
 Recommended citation: LaLone, Nicolas. (2018). &quot;Association Mapping: Social Network Analysis with Humans and Non-Humans.&quot; Retrieved from Electronic Theses and Dissertations for Graduate School.
+
+---
