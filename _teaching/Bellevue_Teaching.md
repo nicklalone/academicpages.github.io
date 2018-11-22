@@ -8,13 +8,8 @@ date: 2018-12-31
 location: "Bellevue University, Online, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+|                                  |                              |                                 |                                           |                                             |                                        |
+|----------------------------------|------------------------------|---------------------------------|-------------------------------------------|---------------------------------------------|----------------------------------------|
+| Introduction to Game Design      | Interactive Narrative Design | Introduction to 3D Design       | Intermediate Portfolio Development        | Introduction to Game Programming            | Advanced Digital Design                |
+| Introduction to Game Development | Animation                    | Beginning Portfolio Development | User-Experience and User-Interface Design | Level Design                                | Advanced Portfolio Design / Internship |
+| Introduction to 2D Design        | Interactive Sound Design     | Intermediate Digital Design     | Serious Games and Critical Play           | Getting Started with Video Game Development |                                        |
