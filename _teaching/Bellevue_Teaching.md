@@ -8,8 +8,13 @@ date: 2018-12-31
 location: "Bellevue University, Online, United States"
 ---
 
+| Data Science                      |                             |                    |
+|-----------------------|-----------------------------|--------------------|
+| Intro to Data Science | Introduction to Programming | Doing Data Science |
 
-
+### Intro to Data Science
+### Introduction to Programming
+### Doing Data Science
 
 | Game Studies and Design                                  |                              |                                 |                                           |                                             |                                        |
 |----------------------------------|------------------------------|---------------------------------|-------------------------------------------|---------------------------------------------|----------------------------------------|
@@ -48,7 +53,7 @@ location: "Bellevue University, Online, United States"
 
 | Business Analytics                                   |                                            |                                          |
 |------------------------------------|--------------------------------------------|------------------------------------------|
-| Introduction to Business Analytics | Base SAS,Programming                       | Data Warehousing and Mining Applications |
+| Introduction to Business Analytics | Base SAS Programming                       | Data Warehousing and Mining Applications |
 | Introduction to SAS                | Enterprise Data and,Information Management |                                          |
 
 ### Introduction to Business Analytics
