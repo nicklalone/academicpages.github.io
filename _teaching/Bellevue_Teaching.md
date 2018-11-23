@@ -46,6 +46,8 @@ At Bellevue University, I have been involved with Data Science, Game Design, Gra
 ### Advanced Digital Design
 ### Advanced Portfolio Design / Internship
 
+---
+
 | Graphic Design                           |                                    |                |
 |----------------------------|------------------------------------|----------------|
 | Design Basics              | User-Experience and Graphic Design | Webpage Design |
@@ -56,6 +58,8 @@ At Bellevue University, I have been involved with Data Science, Game Design, Gra
 ### User Experience and Graphic Design
 ### Web Page Design
 ### Website Development
+
+---
 
 | Business Analytics                                   |                                            |                                          |
 |------------------------------------|--------------------------------------------|------------------------------------------|
