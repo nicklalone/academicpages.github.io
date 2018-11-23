@@ -16,15 +16,15 @@ At Bellevue University, I have been involved with Data Science, Game Design, Gra
 
 ### Intro to Data Science
 
-> This course introduces the possibilities, history, and ethics surrounding Data Science. Basics of data science are explored, including vocabulary, programming languages, big data frameworks, visualization, and statistics. Prior programming experience is not needed for this course.
+> **Catalog Description:** This course introduces the possibilities, history, and ethics surrounding Data Science. Basics of data science are explored, including vocabulary, programming languages, big data frameworks, visualization, and statistics. Prior programming experience is not needed for this course.
 
 ### Introduction to Programming
 
-> This course introduces the Python programming language as a tool to clean, slice, and build tools to analyze an existing dataset. Basic principles of programming are explored as well as techniques for configuring a computer for data science work. 
+> **Catalog Description:** This course introduces the Python programming language as a tool to clean, slice, and build tools to analyze an existing dataset. Basic principles of programming are explored as well as techniques for configuring a computer for data science work. 
 
 ### Doing Data Science
 
-> In the final course of the Data Science program, students will conduct several data science projects from origin-to-presentation. Students will gather data, then prepare, clean, analyze, and present their analysis to an audience or a client in their chosen domain.
+> **Catalog Description:** In the final course of the Data Science program, students will conduct several data science projects from origin-to-presentation. Students will gather data, then prepare, clean, analyze, and present their analysis to an audience or a client in their chosen domain.
 
 ---
 
@@ -116,23 +116,23 @@ I worked as an adjunct for this program. Each course was created around a slow p
 
 ### Design Basics
 
-> This course analyzes fundamental elements and principles of design necessary to solve graphic design problems. Topics including grids, hierarchy, contrast, balance, and color will be applied to print- and web-based projects. Problem solving and critical thinking skills will be further developed.
+> **Catalog Description:** This course analyzes fundamental elements and principles of design necessary to solve graphic design problems. Topics including grids, hierarchy, contrast, balance, and color will be applied to print- and web-based projects. Problem solving and critical thinking skills will be further developed.
 
 ### Fundamentals of Web Design
 
-> This course examines the fundamentals specific to web design. Topics will include web standards, design problems, accessibility/usability, and current web topics. Projects will be based on research and presentations rather than technical applications thus providing students with the needed information to continue with web design classes in the program.
+> **Catalog Description:** This course examines the fundamentals specific to web design. Topics will include web standards, design problems, accessibility/usability, and current web topics. Projects will be based on research and presentations rather than technical applications thus providing students with the needed information to continue with web design classes in the program.
 
 ### User Experience and Graphic Design
 
-> This course provides and in-depth study of interactivity, including the elements of user experience and methods for designing and developing effective interactive interfaces. The fundamentals of design as related to interactivity and user experience will also be covered.
+> **Catalog Description:** This course provides and in-depth study of interactivity, including the elements of user experience and methods for designing and developing effective interactive interfaces. The fundamentals of design as related to interactivity and user experience will also be covered.
 
 ### Web Page Design
 
-> This course covers the specific design needs and issues found in web design, such as color, contrast, placement and navigation. 
+> **Catalog Description:** This course covers the specific design needs and issues found in web design, such as color, contrast, placement and navigation. 
 
 ### Website Development
 
-> This course covers the skills and project-based experience needed for entry into web design and development careers.
+> **Catalog Description:** This course covers the skills and project-based experience needed for entry into web design and development careers.
 
 ---
 
@@ -145,16 +145,16 @@ One of the most fantastic moments at Bellevue University came through this progr
 
 ### Introduction to Business Analytics
 
-> This course introduces an analytical toolset to address modern, data-intensive business problems. The course provides an overview of the key concepts, applications, processes and techniques relevant to business analytics. The course makes use of SAS Enterprise Miner to illustrate the use of business analytics methodologies to enhance business decision-making. 
+> **Catalog Description:** This course introduces an analytical toolset to address modern, data-intensive business problems. The course provides an overview of the key concepts, applications, processes and techniques relevant to business analytics. The course makes use of SAS Enterprise Miner to illustrate the use of business analytics methodologies to enhance business decision-making. 
 
 ### Base SAS Programming
 
-> This course is designed as the entry point to learning SAS programming, analytics programming concepts and environments. It provides the tools necessary to write SAS programs to perform data management, analysis, and reporting. The objective of this course is to provide the skills necessary to create and document data sets, manage and reshape data, write simple reports, and compute basic statistics on data set variables. Hands-on exercises designed to facilitate understanding of all the topics are included. The course also provides the basis for more advanced work in data analytics and advanced programming techniques for data management. This course aligns with the SAS Base Programming certification concepts.
+> **Catalog Description:** This course is designed as the entry point to learning SAS programming, analytics programming concepts and environments. It provides the tools necessary to write SAS programs to perform data management, analysis, and reporting. The objective of this course is to provide the skills necessary to create and document data sets, manage and reshape data, write simple reports, and compute basic statistics on data set variables. Hands-on exercises designed to facilitate understanding of all the topics are included. The course also provides the basis for more advanced work in data analytics and advanced programming techniques for data management. This course aligns with the SAS Base Programming certification concepts.
 
 ### Enterprise Data and Information Management
 
-> This course offers an in-depth exploration of all the major topics in the field of data and information management from an applied perspective. The course is designed to provide not only a strong theoretical foundation, but also the technical skills required in analyzing, designing, implementing, managing, and utilizing information repositories. Topics covered include relational database model, data modeling, logical and physical database design, structured query language (SQL) implementation, procedures and triggers, data integration and quality, data warehouses and database administration. This course explores data and information management related issues in the context of business organizations; therefore, strategic roles that data and information play in business operations, customer relationship management, business decision-making, and strategy development are also discussed.
+> **Catalog Description:** This course offers an in-depth exploration of all the major topics in the field of data and information management from an applied perspective. The course is designed to provide not only a strong theoretical foundation, but also the technical skills required in analyzing, designing, implementing, managing, and utilizing information repositories. Topics covered include relational database model, data modeling, logical and physical database design, structured query language (SQL) implementation, procedures and triggers, data integration and quality, data warehouses and database administration. This course explores data and information management related issues in the context of business organizations; therefore, strategic roles that data and information play in business operations, customer relationship management, business decision-making, and strategy development are also discussed.
 
 ### Data Warehousing and Mining Applications
 
-> As business organizations collect more and more data as a byproduct of their operations, decision-makers are beginning to proactively and systematically analyze these data to improve decision quality. This course focuses on the two key processes of business analytics: data warehousing and data mining. The course provides an in-depth discussion on the modeling, design and implementation of data warehouses and other relevant techniques for addressing big data issues in organizations today. Data mining is the process that uses a variety of data analysis tools to discover patterns and relationships in data that may be used to make proactive, knowledge-driven decisions. The course provides an in-depth discussion on various techniques of data mining including predictive modeling, pattern recognition, prescriptive analytics, and text mining. Both the theoretical and practical aspects of data warehousing and mining are discussed in this course.
+> **Catalog Description:** As business organizations collect more and more data as a byproduct of their operations, decision-makers are beginning to proactively and systematically analyze these data to improve decision quality. This course focuses on the two key processes of business analytics: data warehousing and data mining. The course provides an in-depth discussion on the modeling, design and implementation of data warehouses and other relevant techniques for addressing big data issues in organizations today. Data mining is the process that uses a variety of data analysis tools to discover patterns and relationships in data that may be used to make proactive, knowledge-driven decisions. The course provides an in-depth discussion on various techniques of data mining including predictive modeling, pattern recognition, prescriptive analytics, and text mining. Both the theoretical and practical aspects of data warehousing and mining are discussed in this course.
