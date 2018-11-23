@@ -22,6 +22,8 @@ At Bellevue University, I have been involved with Data Science, Game Design, Gra
 
 ---
 
+This game studies program was created to reflect the usual course path of a Fine Arts program. Much of the course load reflected studio exploration and personal development over in-depth, socratic-style instruction. As an instructor, I inherited this program when it was sunset and had to teach out its existing enrollment. Recently, I have begun to re-calibrate much of this program by starting with a game programming course using the fantasy console PICO-8.
+
 | Game Studies and Design                                  |                              |                                 |                                           |                                             |                                        |
 |----------------------------------|------------------------------|---------------------------------|-------------------------------------------|---------------------------------------------|----------------------------------------|
 | Introduction to Game Design      | Interactive Narrative Design | Introduction to 3D Design       | Intermediate Portfolio Development        | Introduction to Game Programming            | Advanced Digital Design                |
@@ -48,6 +50,9 @@ At Bellevue University, I have been involved with Data Science, Game Design, Gra
 
 ---
 
+I worked as an adjunct for this program. Each course was created around a slow path through graphic design concepts leading up to user-experience and re-design of a charity or concept of their choice. This program was an eye-opener as it was some of the first content that was meant to teach students the basics of HTML, CSS, JQuery, and the skills needed to manipulate files on servers meant to access for webpages. 
+
+
 | Graphic Design                           |                                    |                |
 |----------------------------|------------------------------------|----------------|
 | Design Basics              | User-Experience and Graphic Design | Webpage Design |
@@ -60,6 +65,8 @@ At Bellevue University, I have been involved with Data Science, Game Design, Gra
 ### Website Development
 
 ---
+
+One of the most fantastic moments at Bellevue University came through this program. I was asked to take over this program's direction after the Game Studies program was complete. This program was created by someone who left the university quickly after it was finished being developed. As a new program director, I am looking forward to re-doing this program once Data Science is complete.
 
 | Business Analytics                                   |                                            |                                          |
 |------------------------------------|--------------------------------------------|------------------------------------------|
