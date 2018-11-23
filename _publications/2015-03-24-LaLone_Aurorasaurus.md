@@ -2,7 +2,7 @@
 title: "Harnessing Twitter and Crowdsourcing to Augment Aurora Forecasting"
 collection: publications
 permalink: /publication/2015-07-08-dissertation
-excerpt: 'It is possible to use Social-Network Analysis to reify Actor-Network Theory.'
+excerpt: 'To help increase the accuracy and timeliness of auroral forecasting, we have designed a multi-faceted system called Aurorasaurus. This system allows crisis management specialists to test reactions to rare event notifications.'
 date: 2015-03-14
 venue: 'Conference Proceedings'
 paperurl: 'https://dl.acm.org/citation.cfm?id=2702671'
