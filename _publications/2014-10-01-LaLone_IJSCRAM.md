@@ -2,7 +2,7 @@
 title: "Crowdsourcing Investigations: Crowd Participation in Identifying the Bomb and Bomber from the Boston Marathon Bombing"
 collection: publications
 permalink: /publication/2014-10-01-LaLone_IJSCRAM
-excerpt: 'It is possible to use Social-Network Analysis to reify Actor-Network Theory.'
+excerpt: 'In this paper we illustrate the ethical dilemmas that arise when large public investigations in a crisis are crowdsourced. We focus the variations in public opinion concerning the actions of two online groups during the immediate aftermath of the Boston Marathon Bombing.'
 date: 2014-10-01
 venue: 'International Journal of Information Systems for Crisis Response and Management'
 paperurl: 'http://nicklalone.github.io/files/LaLone_IJISCRAM_Boston.pdf'
