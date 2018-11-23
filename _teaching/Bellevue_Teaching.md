@@ -36,7 +36,7 @@ This game studies program was created to reflect the usual course path of a Fine
 
 ### Introduction to Game Development
 
-**Catalog Description:** This course further explores the development and practice of Game Design and how it applies to interactive art. Topics include introduction to interactive narrative design, the basics of video game programming and computer-mediated interactive systems, collision management, version control, interface design and exporting.
+> **Catalog Description:** This course further explores the development and practice of Game Design and how it applies to interactive art. Topics include introduction to interactive narrative design, the basics of video game programming and computer-mediated interactive systems, collision management, version control, interface design and exporting.
 
 ### Introduction to 2D Design
 
