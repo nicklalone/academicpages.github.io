@@ -1,5 +1,5 @@
 ---
-title: "Bellevue University Teaching"
+title: "Bellevue University"
 collection: teaching
 type: "Undergraduate Courses and Graduate Courses"
 permalink: /teaching/Bellevue_Teaching
