@@ -1,5 +1,5 @@
 ---
-title: "Academic Posters Or, So you thought you'd try and be clever but ended up using every word in your paper to make a very tiny maze on a very bvig piece of paper and now all you can do is stand there awkwardly while people take a look and scramble away or try to solve the maze instead of figuring out what your paper is about"
+title: "Academic Posters or so you thought you'd try and be clever but ended up using every word in your paper to make a very tiny maze on a very bvig piece of paper and now all you can do is stand there awkwardly while people take a look and scramble away or try to solve the maze instead of figuring out what your paper is about. Why are you still reading?"
 collection: talks
 type: "Workshop"
 permalink: /talks/2016-11-16-Poster-Talk
