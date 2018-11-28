@@ -8,6 +8,6 @@ date: 2016-11-16
 location: "State College PA, USA"
 ---
 
-[Submission Document Here](https://docs.google.com/presentation/d/17N5jxwaI66clZumZLhusdEgx5JO7XV4WvCNQxZ5iFAA/edit?usp=sharing)
+[Slide Deck for this talk is located here!](https://docs.google.com/presentation/d/17N5jxwaI66clZumZLhusdEgx5JO7XV4WvCNQxZ5iFAA/edit?usp=sharing)
 
 Academic posters can be a real nightmare to read. Researchers pour their heart and soul into their work, into their research but at the last second, they have to do something they've not considered before, talk to someone about it. This workshop will walk you through some ideas and considerations about making academic posters. Examples, theories, and methods to creating good posters as well as examples, theories, and methods for how bad posters are created will also be covered. 
