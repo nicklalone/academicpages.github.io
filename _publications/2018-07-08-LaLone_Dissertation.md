@@ -2,7 +2,7 @@
 title: "Association Mapping: Social Network Analysis with Humans and Non-Humans"
 collection: publications
 permalink: /publication/2018-07-08-dissertation
-excerpt: 'It is possible to use Social-Network Analysis to reify Actor-Network Theory.'
+excerpt: 'It is possible to use Social-Network Analysis to reify Actor-Network Theory. By including non-human actors in the analysis of software use, all of the disparate applications, devices, tasks, and contexts can be made explicit, numerically represented, and tested against or with similar networks. I demonstrate AM by creating Association Maps for 6 games of the board game Catan (1995) – a dice-based game of resource distribution and management. Catan (1995) was chosen for this pilot study due to its popularity, affordances, and expected behaviors.'
 date: 2018-07-08
 venue: 'Dissertation'
 paperurl: 'https://etda.libraries.psu.edu/catalog/15635njl164'
