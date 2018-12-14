@@ -14,7 +14,7 @@ In Austin, Texas about 6 or 7 years ago there was this strange rebirth of altern
 
 [![](http://3.bp.blogspot.com/--JHdpKyH4Fc/T3O-ZpyYLBI/AAAAAAAAGwc/cHQ9Sr7AuOc/s320/image_7713450.jpg)](http://3.bp.blogspot.com/--JHdpKyH4Fc/T3O-ZpyYLBI/AAAAAAAAGwc/cHQ9Sr7AuOc/s1600/image_7713450.jpg)
 
-[Todd Kundla](http://www.likecool.com/Mutant_bicycles_by_Todd_Kundla--Bike--Gear.html) - Not from Austin but he rode one of his bikes here as fast as he could</td>
+[Todd Kundla](http://www.likecool.com/Mutant_bicycles_by_Todd_Kundla--Bike--Gear.html) - Not from Austin but he rode one of his bikes here as fast as he could
 
 
 How things change and how technologies diverge or converge over time is a constant topic of discussion when a product gains a permanent foothold in culture. The fervor of this conversation fades quickly as that particular technology gains a universal, almost invisible status until it is finally displaced by something new. There, the cycle begins all over again. In our age of nostalgia, this is becoming more and more common, especially in popular culture. The easiest example to use is the movie _Super 8_ and the way it tried to capture our nostalgia for E.T. by taking Spielberg's work and attempting to bring a sense of the present from the past. 
@@ -22,8 +22,11 @@ How things change and how technologies diverge or converge over time is a consta
 There is almost a desperation to this furious re-working of nostalgia. Re-using ideas has never been as obvious as it is right now as we enter into HD Remakes, Re-boots, and alternate realities for characters who have been around for centuries. The desperation behind all of this feels a little sad, almost fleeting. It is as if the [Phillip Larkin poem](http://www.poetryfoundation.org/poem/178055), "This be the verse" has somehow inserted itself into the fabric of capitalism:
 
 >"They fuck you up, your mum and dad.
+
 >They may not mean to, but they do.
+
 >They fill you with the faults they had.
+
 >And add some extra, just for you."
 
 
