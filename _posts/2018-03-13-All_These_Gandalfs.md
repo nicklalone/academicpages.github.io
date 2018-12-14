@@ -9,9 +9,7 @@ tags:
   - Human-Computer Interaction
 ---
 
-Or how we all want to stay home instead of go on adventures
-
-I wrote this introductory bit for my dissertation and i’m not sure it will stick with it so I thought i’d put it here.
+Or how we all want to stay home instead of go on adventures. I wrote this introductory bit for my dissertation and i’m not sure it will stick with it so I thought i’d put it here.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*_ZCtIgV2PFqN2gv4kd_myQ.png)
 

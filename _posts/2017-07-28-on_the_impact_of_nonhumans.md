@@ -10,10 +10,9 @@ tags:
   - Board Games
 ---
 
+I got some reviews back the other day on my first attempt to produce something from my dissertation research. Of the reviews, one aspect that stood out was that there was a need for “more detail.” Simple associations like those found in Social Network Analysis just aren’t enough for something substantial. And, for the most part, I agree.
 
 # On the Impact of Nonhumans in Social Network Analysis
-
-I got some reviews back the other day on my first attempt to produce something from my dissertation research. Of the reviews, one aspect that stood out was that there was a need for “more detail.” Simple associations like those found in Social Network Analysis just aren’t enough for something substantial. And, for the most part, I agree.
 
 There is a certain aspect of what i’m trying to pursue with this work that could simply be called, “The impact of anthropomorphism.” From a design perspective, the idea of certain aspects of a computational system are being reacted to and interacted with as “human” is of particular interest. After all, if you can reliably predict what aspects of any software are going to be anthropomorphized, why wouldn’t you want to enhance that? It’s easier to learn from a friend than it is from an uncaring machine.
 

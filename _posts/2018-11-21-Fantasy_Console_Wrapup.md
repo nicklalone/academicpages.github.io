@@ -9,9 +9,9 @@ tags:
   - Game Design
 ---
 
-# Fantasy Console Class Semester Wrap-up
+My first course with PICO-8 as an introductory space for games programming is just about complete. What went right? What went wrong? This post gets into the weeds and explores what I need to change, adjust, and transform.
 
-What went right? What went wrong?
+# Fantasy Console Class Semester Wrap-up
 
 Thanksgiving symbolizes the end of the first semester of my Introduction to Game Programming course using PICO-8.
 
