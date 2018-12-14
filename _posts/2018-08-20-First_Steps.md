@@ -1,7 +1,7 @@
 ---
 title: 'First Steps with PICO-8'
 date: 2018-08-20
-permalink: /posts/2012/08/First_Steps
+permalink: /posts/2018/08/First_Steps
 tags:
   - PICO-8
   - Fantasy Console

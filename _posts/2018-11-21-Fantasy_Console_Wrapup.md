@@ -1,7 +1,7 @@
 ---
-title: 'Are Fantasy Consoles a Better Gateway to Learning How to Program? Learning Programming with PICO-8'
-date: 2018-08-08
-permalink: /posts/2012/08/Are_Fantasy_Consoles
+title: 'Fantasy Console Class Semester Wrap-up'
+date: 2018-11-21
+permalink: /posts/2018/11/Fantasy_Console_Wrap
 tags:
   - PICO-8
   - Fantasy Console

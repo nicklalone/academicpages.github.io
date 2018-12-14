@@ -3,7 +3,7 @@ title: 'All These Gandalfs'
 date: 2018-08-08
 permalink: /posts/2012/08/All_These_Gandalfs
 tags:
-  - Actor-Networks
+  - Actor-Network Theory
   - Academia
   - Dissertation
   - Human-Computer Interaction
