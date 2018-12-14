@@ -8,11 +8,12 @@ tags:
   - Well-Played
   - Game Design
 ---
+
+My relationship with games and game studies is often one of curiosity. I find the concept of ‘play’ useful yet I find that ‘play’ is more useful to study something else than it is to study games themselves. Despite this, I do try to keep an eye on games and game studies. There is always so much stuff to watch, so many authors to keep track of, and so many academic moves to remember.
+
 # A Meaningful Play After Action Report
 
 Seriously Not Serious Yet Mainstream
-
-My relationship with games and game studies is often one of curiosity. I find the concept of ‘play’ useful yet I find that ‘play’ is more useful to study something else than it is to study games themselves. Despite this, I do try to keep an eye on games and game studies. There is always so much stuff to watch, so many authors to keep track of, and so many academic moves to remember.
 
 Meaningful Play is a conference that occurs every 2 years in East Lansing Michigan. At this conference will typically be a cross-section of a number of different types of game scholars resulting in a pretty interesting spectrum of researchers from different spaces, academic settings, and industry. In conjunction with those researchers are students working on games themselves as well as other, independent game creators.
 
