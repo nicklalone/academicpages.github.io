@@ -22,12 +22,9 @@ How things change and how technologies diverge or converge over time is a consta
 There is almost a desperation to this furious re-working of nostalgia. Re-using ideas has never been as obvious as it is right now as we enter into HD Remakes, Re-boots, and alternate realities for characters who have been around for centuries. The desperation behind all of this feels a little sad, almost fleeting. It is as if the [Phillip Larkin poem](http://www.poetryfoundation.org/poem/178055), "This be the verse" has somehow inserted itself into the fabric of capitalism:
 
 >"They fuck you up, your mum and dad.
-
->They may not mean to, but they do.
-
->They fill you with the faults they had.
-
->And add some extra, just for you."
+> They may not mean to, but they do. 
+> They fill you with the faults they had. 
+> And add some extra, just for you."
 
 
 You could say that the re-make craze currently happening is an attempt to take our parents faults and remake them into our own. It feels somehow shallow, somehow incomplete because we don't all have children of our own to pass things off to...especially when you consider how different video games feel now compared to when our parents may have played them (not very different).
