@@ -1,7 +1,7 @@
 ---
 title: 'Fantasy Console Class Semester Wrap-up'
 date: 2018-11-21
-permalink: /posts/2018/11/Fantasy_Console_Wrap
+permalink: /posts/2018/11/Wrap_Up
 tags:
   - PICO-8
   - Fantasy Console
