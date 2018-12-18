@@ -8,7 +8,7 @@ date: 2014-05-24
 location: "State College PA, USA"
 ---
 
-[Poster Located Here]()
+[Poster Abstract Located Here](https://www.dropbox.com/s/rwriq6b7j5jjijf/LaLone%20-%20Crisis%20Response%20Wargame.pdf?dl=0)
 
 **Abstract**
 
