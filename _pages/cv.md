@@ -23,6 +23,9 @@ Education
 Work experience
 ======
 - **Current**
+  * Assistant Professor. Department of Information Systems and Quantitative Analysis, University of Nebraska at Omaha. 
+
+**08/2018 - 07-2019
   * Post Doctoral Researcher Associate. School of Information Sciences, University of Illinois at Urbana-Champaign.
   * Assistant Professor, College of Science and Technology. Bellevue University.
     * Director of the Data Science Program
