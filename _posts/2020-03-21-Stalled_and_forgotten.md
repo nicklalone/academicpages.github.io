@@ -81,9 +81,10 @@ We are in the beginning stages of what might be a long-winded, forced separation
 
 Yet, we’re dusting it off. We’re actually stuck with the tools that appeared during the heyday of the virtual life. We got video chat, voice chat, video/voice chat, and emojis, so many emojis. We got virtual whiteboards, automatic broadcasts, and huge, far-reaching abilities to share what we see on our screen. Everything we have now is what we had in 2005 but with great fidelity and so many more restrictions, privacy invasions, and monetizations.
 
-![](../_Forgotten_Past_of_the_Virtual_World_html_eaa8aadc7c3d8663.png)
+<div align="center">
 
-![](../_Forgotten_Past_of_the_Virtual_World_html_cf068c6f8e74a4fd.png)
+![](../images/cv19.png)
+</div>
 
 We’re currently kicking up a ton of dust.
 
