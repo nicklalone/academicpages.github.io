@@ -18,7 +18,7 @@ Almost all of the reasons I went into academia came out of this time, the period
 
 A long time ago, I found a blog called [Terra Nova](https://terranova.blogs.com/terra_nova/archives.html) in a google search about _Final Fantasy 11 (FFXI)_. I was a student in a community college in Austin, Texas playing _FFXI_ and trying to figure out what to do with my life after 9/11 destroyed my dreams of becoming a biblical archaeologist. Trying to make sense of what virtual worlds meant to society seemed to be a tremendously useful project.
 
-![](https://github.com/nicklalone/nicklalone.github.io/blob/master/images/tn.png)
+![](https://raw.githubusercontent.com/nicklalone/nicklalone.github.io/master/images/tn.png)
 
 For years this was the only blog I read, maybe it was the only blog i’ve ever read new posts as they were made.
 
