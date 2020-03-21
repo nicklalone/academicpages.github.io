@@ -28,6 +28,8 @@ Yet, as I fought my way through school, all of the promise for this space falter
 
 Besides mobile devices, the work that took the place of virtual worlds has been a growing body of literature that not only laments the loss of the social in the virtual, but also signals that much of the promise had [completely failed or been corrupted.](http://blogs.harvard.edu/mediaberkman/2010/06/16/lisa-nakamura-dont-hate-the-player-hate-the-game/) This item would evolve from studying trolling in games to studying the proliferation of online harassment.
 
+***
+
 So as I continued adding letters to the end and beginning of my name, I evolved with what would become of virtual worlds. I got my PhD in Information Science in 2018 and have been pushing in my career for things like, [remembering the past that inspired Dungeons and Dragons](http://analoggamestudies.org/2019/09/a-tale-of-dungeons-dragons-and-the-origins-of-the-game-platform/), [how digitizing board games shifts the formation and control of networks](https://etda.libraries.psu.edu/catalog/15635njl164), and [how the history of how we’ve used maps in video games tends to be a lot different from how we use maps normally](https://dl.acm.org/doi/abs/10.1145/3336144).
 
 All of these ideas are fueled by a desire to balance 2 things:
@@ -52,6 +54,8 @@ And finally, I wrote recently about [understanding video game maps](https://dl.a
 
 And then the Coronavirus came, we were forced inside, to separate from our physical groups, and suddenly all this old virtual worlds stuff came flooding back.
 
+***
+
 Many of the reasons research on virtual worlds began to float away into obscurity were pretty straight forward. Folks lost interest, [lost the magic these games held](https://www.engadget.com/2008/12/11/terra-nova-blog-slowing-down-as-we-enter-new-era/). Yet, it was something more practical I think. It had to do with who was in control of the games themselves. [The user lost control of their community in the virtual world they inhabited](https://escholarship.org/uc/item/7br694vk). In its place was installed “user experience” engineering meant to tweak every action revenue generating experience that would keep folks playing. This was reflected not only in video games, but in internet-based communities writ large.
 
 I think I can point to a couple other pieces of evidence. It began with a long-winded discussion between a guild in _Everquest_ and [Brad McQuaid](https://arstechnica.com/gaming/2019/11/everquest-lead-producer-and-designer-brad-mcquaid-has-passed-away/), maker of _Everquest_. This event has been called “[The Most Important Event in Raiding History](https://www.dropbox.com/s/eam0z21sufcn37a/The%20most%20important%20event%20in%20raiding%20history%20-%20full%20-ui%20.pdf?dl=0)” (snagged from [ElitistJerks](https://web.archive.org/web/20101009211455/http:/elitistjerks.com/blogs/jamesvz/487-most_important_event_raiding_history.html) long ago) which can best be summarized as the moment in time where the control of in-game life became the provenance of the game creators rather than of the game players. It was a little slow to fully manifest as there was still tremendous benefit to socializing in (then) new games like [_Final Fantasy 11_](http://tuufless.blogspot.com/2006/03/limitbreak-vs-absolute-virtue.html) or [_World of Warcraft_](https://www.amazon.com/Leet-Noobs-Warcraft-Literacies-Epistemologies/dp/1433116103) a few years later. Yet each of these experiences grew stale.
@@ -60,11 +64,15 @@ If I were to point at a specific event where things really shifted, I’d probab
 
 This video as the moment in time where _WoW_ began to lose the affordances and features that made it a social game, where the things [McQuaid](https://arstechnica.com/gaming/2019/11/everquest-lead-producer-and-designer-brad-mcquaid-has-passed-away/) did finally cemented in one game, with one company at the helm and in control of the market. No longer could I be a weirdo to people in the game world. No longer did I have to labor harshly to achieve fortune and glory. All that was left was to push a button in town and gain experience, repeated from beginning to maximum level. [This was reflected in other games like FFXI that were left trying to re-create a game made _for_ the virtual world concept into a game for single players to enjoy](https://www.dropbox.com/s/3qbrpofouwg1lsr/LaLone%20-%20FFXI%20Archaeology.pdf?dl=0).
 
+***
+
 And so, with nothing left to do but play a solo game collaboratively, all that was left was to do things like trolling via chat, trolling via finding folks outside of the game, and trolling in an ever escalating, [ever more sinister act](https://www.cnn.com/2019/09/14/us/swatting-sentence-casey-viner/index.html). In bleeding outside of games, the growth of toxicity was not only inevitable, but predictable. And all we’re left with is trying to figure out how to do _something_ to stop it or to try and reverse it.
 
 But at the core of this is a particularly important problem: academia, technology development, and marketing went from trying to understand and foster the occurrences and trends of this space to something else (it was mobile devices). The loss of this attention allowed the toxic stuff to fester, to grow stronger, and become a contagion in and of itself. So when you see posts like, [Terra Nova slowing down](https://www.engadget.com/2008/12/11/terra-nova-blog-slowing-down-as-we-enter-new-era/), we see the start of a process that became something else. Something sinister.
 
 And so this leads to the [current situation](https://slate.com/technology/2019/08/gamergate-video-games-five-years-later.html). And the “new” [current situation](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd).
+
+***
 
 We are in the beginning stages of what might be a long-winded, forced separation of people back into their neighborhoods. It will have long-lasting impacts on every culture in the world. Hanging out with neighbors is potentially scary. Hanging out at work is potentially scary. Going to a restaurant is potentially scary. So we’re moving everything online. We’re dusting off the cobwebs of all that virtual worlds stuff.
 
