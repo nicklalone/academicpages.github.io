@@ -1,5 +1,5 @@
 ---
-title: 'Why did we stop caring about virtual worlds? And other consequences of mobile device fever'
+title: 'The consequences of the mobile fetish in a world forced to use tools created in the mid-2000s.'
 date: 2020-03-21
 permalink: /posts/2020/03/stalled_forgotten
 tags:
