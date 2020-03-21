@@ -14,6 +14,8 @@ With the Coronavirus coming around, so many of us are forced indoors for a time,
 
 Almost all of the reasons I went into academia came out of this time, the period of work between 2001–2009 when the magic of virtual worlds, of virtual life, set the world on fire.
 
+***
+
 A long time ago, I found a blog called [Terra Nova](https://terranova.blogs.com/terra_nova/archives.html) in a google search about _Final Fantasy 11 (FFXI)_. I was a student in a community college in Austin, Texas playing _FFXI_ and trying to figure out what to do with my life after 9/11 destroyed my dreams of becoming a biblical archaeologist. Trying to make sense of what virtual worlds meant to society seemed to be a tremendously useful project.
 
 ![](../_Forgotten_Past_of_the_Virtual_World_html_23a20d1abe385c53.png)
