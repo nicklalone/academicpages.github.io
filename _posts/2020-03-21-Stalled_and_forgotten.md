@@ -60,10 +60,7 @@ I think I can point to a couple other pieces of evidence. It began with a long-w
 
 If I were to point at a specific event where things really shifted, I’d probably point to this specific raid.
 
-<div align="center">
-
-[![](http://img.youtube.com/vi/S_ggLGj37qI/0.jpg)](http://www.youtube.com/watch?v=S_ggLGj37qI "Naxxramas Solo - Mage")
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S_ggLGj37qI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video as the moment in time where _WoW_ began to lose the affordances and features that made it a social game, where the things [McQuaid](https://arstechnica.com/gaming/2019/11/everquest-lead-producer-and-designer-brad-mcquaid-has-passed-away/) did finally cemented in one game, with one company at the helm and in control of the market. No longer could I be a weirdo to people in the game world. No longer did I have to labor harshly to achieve fortune and glory. All that was left was to push a button in town and gain experience, repeated from beginning to maximum level. [This was reflected in other games like FFXI that were left trying to re-create a game made _for_ the virtual world concept into a game for single players to enjoy](https://www.dropbox.com/s/3qbrpofouwg1lsr/LaLone%20-%20FFXI%20Archaeology.pdf?dl=0).
 
