@@ -1,5 +1,5 @@
 ---
-title: 'Reconnecting to the Stalled and Forgotten Past of the Virtual World'
+title: 'Why did we stop caring about virtual worlds? And other consequences of mobile device fever'
 date: 2020-03-21
 permalink: /posts/2020/03/stalled_forgotten
 tags:
