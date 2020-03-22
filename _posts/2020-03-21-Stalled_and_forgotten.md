@@ -1,5 +1,5 @@
 ---
-title: 'The consequences of the mobile fetish in a world forced to use tools created in the mid-2000s.'
+title: 'Consequences of a mobile fetish: logging back in to the virtual world after 10 years afk.'
 date: 2020-03-21
 permalink: /posts/2020/03/stalled_forgotten
 tags:
