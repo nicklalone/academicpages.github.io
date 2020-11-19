@@ -59,4 +59,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* University of Nebrask at Omaha: Doctoral Program Committee
+* University of Nebrask at Omaha: Undergraduate Program Committee
+* University of Nebrask at Omaha: IS&T Advisory Committee
+* FEMA Higher Education Program: Co-Chair Science and Technology Integration Program
