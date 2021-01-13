@@ -1,5 +1,5 @@
 ---
-title: "Paper to Pixels: A Chronicle of Map Interfaces in Games"
+title: "Paper to Pixels&colon; A Chronicle of Map Interfaces in Games"
 collection: publications
 permalink: /publication/2020-07-20-LaLone_Paper_Pixels
 excerpt: 'Game map interfaces provide an alternative perspective on the worlds players inhabit.compared to navigation applications popular in day-to-day life, game maps have different affordances to match players' situated goals. To contextualize and understand these differences and how they developed, we present a historical chronicle of game map interfaces.'
